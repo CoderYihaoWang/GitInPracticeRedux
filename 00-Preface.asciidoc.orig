@@ -1,5 +1,8 @@
-::Edit in branch test-merge::
+<<<<<<< HEAD
 :: Edit on master branch ::
+=======
+::Edit in branch test-merge::
+>>>>>>> test-merge
 Opening joke
 [Test fetch]
 [Add a new line for push test]
