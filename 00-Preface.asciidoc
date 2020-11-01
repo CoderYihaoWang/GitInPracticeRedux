@@ -1,3 +1,4 @@
+::Edit in branch test-merge::
 Opening joke
 [Test fetch]
 [Add a new line for push test]
