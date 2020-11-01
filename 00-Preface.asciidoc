@@ -8,3 +8,4 @@ Opening joke
 [Add a message for merge test]
 [Chapter two]
 [Spacing]
+[Add a new line for cherry test]
