@@ -1,3 +1,4 @@
+:: Edit on master branch ::
 Opening joke
 [Test fetch]
 [Add a new line for push test]
