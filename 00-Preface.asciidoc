@@ -1,5 +1,3 @@
-::Edit in branch test-merge::
-:: Edit on master branch ::
 Opening joke
 [Test fetch]
 [Add a new line for push test]
@@ -8,3 +6,4 @@ Opening joke
 [Add a message for merge test]
 [Chapter two]
 [Spacing]
+[Add preface text]
