@@ -1,8 +1,1 @@
-Opening joke
-[Test fetch]
-[Add a new line for push test]
-[Add a new line for pull test]
-[Add a new line for fetch test]
-[Add a message for merge test]
-[Chapter two]
-[Spacing]
+Chapter 1
